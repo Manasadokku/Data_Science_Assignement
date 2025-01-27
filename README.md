@@ -1,0 +1,6 @@
+[**DOKKU_MANASA_EDA.pdf**](./DOKKU_MANASA_EDA.pdf)
+- [**DOKKU_MANASA_EDA.ipynb**](./DOKKU_MANASA_EDA.ipynb)
+- [**DOKKU_MANASA_Lookalike.csv**](./DOKKU_MANASA_Lookalike.csv)
+- [**DOKKU_MANASA_Lookalike.ipynb**](./DOKKU_MANASA_Lookalike.ipynb)
+- [**DOKKU_MANASA_Clustering.pdf**](./DOKKU_MANASA_Clustering.pdf)
+- [**DOKKU_MANASA_Clustering.ipynb**](./DOKKU_MANASA_Clustering.ipynb)
